@@ -1,0 +1,26 @@
+{
+  "name": "chessgame",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Sl33pySage/ChessGame.git"
+  },
+  "keywords": [
+    "Chess",
+    "Javascript"
+  ],
+  "author": "Sl33pySage",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sl33pySage/ChessGame/issues"
+  },
+  "homepage": "https://github.com/Sl33pySage/ChessGame#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
